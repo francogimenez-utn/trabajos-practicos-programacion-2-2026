@@ -113,7 +113,6 @@ Estas funcionalidades deben resolverse aplicando los temas de la materia. El dia
 | **Herencia** | Dos jerarquías: `Empleado` como clase base con `Playero` y `Kiosquero` (cada uno con su menú y sus permisos), y `Producto` como clase base con `Combustible` y `ProductoKiosco`. |
 | **Interfaces** | El cálculo del precio debe resolverse con una interfaz implementada de forma distinta por cada tipo de producto: el combustible se cobra por litro y el producto de kiosco por unidad. También puede usarse una interfaz para definir el menú que ve cada rol. |
 | **Composición** | La `Estacion` está compuesta por sus tanques y surtidores. La `Venta` está compuesta por sus líneas de detalle. |
-| **Agregación** | La venta relaciona al empleado que la realizó con los productos vendidos. |
 | **Enumeraciones** | `TipoCombustible` (Súper, Premium, Diésel, Diésel Premium, GNC), `Rol` (Playero, Kiosquero), `CategoriaProducto` y `MedioDePago`. |
 | **Listas** | Colecciones de empleados, productos, tanques y ventas. |
 | **Encapsulamiento** | Todos los atributos privados, accesibles mediante propiedades. La contraseña del empleado es el ejemplo más claro: solo se puede validar, nunca leer desde afuera. |
