@@ -1,6 +1,6 @@
 # GRUPO 1 — Sistema de gestión de clínica
 
-**Integrantes:** Fausto Rivero — Manuel Torrealba Cañon — Alejo De Lucca
+**Integrantes:** Fausto Rivero — Manuel Torrealba Cañon
 
 **Descripción del sistema:** Aplicación de consola para la administración de una clínica médica: registro de pacientes y profesionales, gestión de la agenda de turnos, atención y cobro de consultas.
 
