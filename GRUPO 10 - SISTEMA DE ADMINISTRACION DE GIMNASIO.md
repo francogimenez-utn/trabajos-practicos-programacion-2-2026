@@ -1,6 +1,6 @@
 # GRUPO 10 — Sistema de administración de gimnasio
 
-**Integrantes:** Valentino Paolini — Benicio Talarico
+**Integrantes:** Valentino Paolini — Benicio Talarico — Alejo De Lucca
 
 **Descripción del sistema:** Aplicación de consola para la administración de un gimnasio: registro de socios con distintos tipos de membresía, control de pagos y vencimientos de cuota, registro de asistencia, inscripción a clases y asignación de rutinas de entrenamiento.
 
@@ -85,7 +85,7 @@
 **Persistencia:** Se guarda en el archivo JSON de rutinas.
 
 ### 10. Reportes
-**Qué hace:** Muestra un submenú con la información de gestión del gimnasio.
+**Qué hace:** Muestra  la información de gestión del gimnasio.
 **Reportes que debe incluir como mínimo:**
 - Ingresos del mes, separados por tipo de membresía.
 - Cantidad de socios activos, dados de baja y con cuota vencida.
