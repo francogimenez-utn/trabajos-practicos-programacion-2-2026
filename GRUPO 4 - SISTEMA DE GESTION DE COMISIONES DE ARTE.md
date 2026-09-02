@@ -95,7 +95,7 @@
 **Qué muestra:** Confirmación de la cancelación.
 
 ### 11. Reportes
-**Qué hace:** Muestra un submenú con la información del emprendimiento.
+**Qué hace:** Muestra  la información del sistema.
 **Reportes que debe incluir como mínimo:**
 - Ingresos totales de un período, en pesos y en dólares.
 - Cantidad de comisiones por tipo de obra (cuál es la más pedida).
