@@ -99,7 +99,7 @@ El medio de pago también afecta el total (por ejemplo, descuento por transferen
 **Datos que pide:** Para reponer, el código del producto y la cantidad a agregar.
 
 ### 12. Estadísticas
-**Qué hace:** Muestra un submenú con la información comercial del emprendimiento.
+**Qué hace:** Muestra la información comercial del emprendimiento.
 **Reportes que debe incluir como mínimo:**
 - Total de ventas y dinero recaudado en un período.
 - Productos más vendidos.
