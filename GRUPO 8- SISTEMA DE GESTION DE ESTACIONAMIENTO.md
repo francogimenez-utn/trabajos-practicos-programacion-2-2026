@@ -94,7 +94,7 @@
 **Qué muestra:** Patente, tipo de vehículo, hora de entrada, hora de salida, tiempo de estadía y monto cobrado de cada movimiento, con el total recaudado al final.
 
 ### 11. Reportes
-**Qué hace:** Muestra un submenú con la información de gestión de la playa.
+**Qué hace:** Muestra la información de gestión de la playa.
 **Reportes que debe incluir como mínimo:**
 - Recaudación de un período, separando estadías ocasionales y abonos mensuales.
 - Porcentaje de ocupación promedio y horarios de mayor demanda.
