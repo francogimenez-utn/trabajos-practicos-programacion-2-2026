@@ -90,7 +90,7 @@ Sobre el total se aplica el ajuste del medio de pago y los descuentos por client
 **Otros estados:** Desde esta misma opción se marca el turno como *ausente* si el cliente no se presentó.
 
 ### 10. Reportes
-**Qué hace:** Muestra un submenú con la información del local.
+**Qué hace:** Muestra la información del local.
 **Reportes que debe incluir como mínimo:**
 - Recaudación de un período, separada por tipo de servicio.
 - Servicios más solicitados.
