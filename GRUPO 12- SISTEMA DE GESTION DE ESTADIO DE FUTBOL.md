@@ -104,7 +104,7 @@
 **Persistencia:** Se guarda en el archivo JSON de configuración.
 
 ### 12. Mostrar estadísticas
-**Qué hace:** Muestra un submenú con la información de gestión del estadio.
+**Qué hace:** Muestra la información de gestión del estadio.
 **Reportes que debe incluir como mínimo:**
 - Recaudación por partido y por sector.
 - Porcentaje de ocupación de cada partido y promedio general.
