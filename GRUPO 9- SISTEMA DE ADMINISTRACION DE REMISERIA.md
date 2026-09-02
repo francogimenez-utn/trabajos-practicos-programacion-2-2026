@@ -95,7 +95,7 @@ Sobre ese valor se aplica **recargo nocturno y recargo por feriado o fin de sema
 **Qué muestra:** Número de viaje, fecha, cliente, chofer, recorrido, tipo de viaje, monto y estado.
 
 ### 11. Reportes
-**Qué hace:** Muestra un submenú con la información de gestión de la remisería.
+**Qué hace:** Muestra la información de gestión de la remisería.
 **Reportes que debe incluir como mínimo:**
 - Recaudación de un período, separada por tipo de viaje.
 - Cantidad de viajes y kilómetros realizados por cada chofer.
