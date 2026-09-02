@@ -99,7 +99,7 @@
 **Otros estados:** Desde esta misma opción se debe poder marcar el turno como *ausente* si el paciente no se presentó.
 
 ### 12. Reportes
-**Qué hace:** Muestra un submenú con información resumida de la clínica.
+**Qué hace:** Muestra información de la clínica.
 **Reportes que debe incluir como mínimo:**
 - Turnos atendidos y recaudación total de una fecha o período.
 - Cantidad de turnos por profesional y por especialidad.
