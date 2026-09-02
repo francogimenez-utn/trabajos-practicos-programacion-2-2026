@@ -103,7 +103,7 @@
 **Qué muestra:** Confirmación con la posición del socio en la lista de espera.
 
 ### 13. Reportes
-**Qué hace:** Muestra un submenú con la información de la biblioteca.
+**Qué hace:** Muestra la información de la biblioteca.
 **Reportes que debe incluir como mínimo:**
 - Libros más prestados y géneros más solicitados.
 - Socios con más préstamos.
