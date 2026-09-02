@@ -106,7 +106,7 @@
 **Persistencia:** Se guarda en el archivo JSON de configuración.
 
 ### 11. Estadísticas
-**Qué hace:** Muestra un submenú con la información del negocio.
+**Qué hace:** Muestra la información del negocio.
 **Reportes que debe incluir como mínimo:**
 - **Películas más alquiladas** y géneros más pedidos.
 - Comparación entre ingresos por venta e ingresos por alquiler.
