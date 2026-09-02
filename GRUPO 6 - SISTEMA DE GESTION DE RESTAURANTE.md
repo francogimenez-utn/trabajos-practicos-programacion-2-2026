@@ -15,7 +15,6 @@ Al abrir el programa, lo primero que se muestra es el login.
 **Qué muestra al ingresar:** Un saludo con el nombre del empleado, su rol y la hora de inicio del turno.
 
 ```
-===== RESTAURANTE =====
 Usuario: ______
 Contraseña: ______
 ```
