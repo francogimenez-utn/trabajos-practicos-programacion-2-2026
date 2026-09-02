@@ -87,7 +87,7 @@
 **Qué muestra:** Número de operación, fecha, cliente, vehículo vendido, forma de pago y monto. Si el vehículo era usado, muestra además a cuánto lo había comprado el concesionario y la ganancia obtenida en la reventa.
 
 ### 10. Reportes
-**Qué hace:** Muestra un submenú con la información comercial del concesionario.
+**Qué hace:** Muestra la información comercial del concesionario.
 **Reportes que debe incluir como mínimo:**
 - Ventas y facturación de un período, en pesos y en dólares.
 - Comparación entre ventas de 0km y de usados.
